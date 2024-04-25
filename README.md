@@ -4,6 +4,9 @@
 
 I am a passionate and enthusiastic fresher in the field of software development. I love learning and exploring new technologies to build innovative solutions. Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-shukla-77b887249/)!
 
+## Currently Learnining in Aws and Nest.js
+
+
 ## Skills
 
 - **Programming Languages**: C, C++, Java
